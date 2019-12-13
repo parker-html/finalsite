@@ -1,0 +1,22 @@
+.navbar{
+    position: relative;
+    top: 150px;
+}
+li{
+        padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+a{
+    color: white;
+        text-decoration: none;
+    text-transform: uppercase;
+    font-size: 18px;
+
+    
+}
+
+ul a:hover{
+    color: deepskyblue;
+    text-decoration: none
+}
